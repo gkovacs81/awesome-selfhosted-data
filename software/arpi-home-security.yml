@@ -1,0 +1,16 @@
+name: ArPI Home Security
+website_url: https://www.arpi-security.info
+description: Raspberry Pi based home security system with web and mobile app, supporting sensors, keypads, GSM backup, and home automation integration.
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Internet of Things (IoT)
+source_code_url: https://github.com/ArPIHomeSecurity/arpi_server
+stargazers_count: 71
+updated_at: '2026-04-23'
+archived: false
+current_release:
+  tag: v2.2.0
+  published_at: '2026-03-01'
